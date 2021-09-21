@@ -1,3 +1,3 @@
 Projeto DIO
 
-Olá, bem vindo ao meu projeto HTML!
+Olá, bem vindo ao meu projeto HTML/CSS
